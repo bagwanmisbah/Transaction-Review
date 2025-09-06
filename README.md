@@ -2,7 +2,7 @@
 
 An interactive and explainable AI dashboard designed to assist financial analysts in detecting, investigating, and managing anomalous transactions.
 
-[https://transaction-copilot-misbah.streamlit.app/]{https://transaction-copilot-misbah.streamlit.app/}
+[https://transaction-copilot-misbah.streamlit.app](https://transaction-copilot-misbah.streamlit.app)
 
 <img width="1920" height="984" alt="image" src="https://github.com/user-attachments/assets/0957b7f0-db18-4bd4-aee6-0fe2eab17a6a" />
 
